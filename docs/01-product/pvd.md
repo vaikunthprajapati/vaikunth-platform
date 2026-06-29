@@ -7,12 +7,6 @@ owner: Vaikunth Prajapati
 reviewer: ChatGPT
 ---
 
-# PVD-001: Product Vision Document
-**Project:** AI-First Engineering Portfolio Platform
-**Status:** Draft v1.0
-
----
-
 ## 1. Vision
 
 To build a living, AI-native engineering platform that demonstrates production-grade software craftsmanship through direct interaction rather than static presentation — where visitors don't just *read* about the engineer's work, they *converse* with it. The platform itself is the primary proof of skill: its architecture, AI integrations, and engineering discipline are the portfolio.

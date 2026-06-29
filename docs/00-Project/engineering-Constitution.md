@@ -1,12 +1,11 @@
 ---
-
 id: EC-001
 title: Engineering Constitution
 version: 1.0
 status: Approved
 owner: Vaikunth Prajapati
 reviewer: ChatGPT
------------------
+---
 
 # Engineering Constitution
 
